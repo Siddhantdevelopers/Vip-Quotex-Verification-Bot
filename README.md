@@ -13,4 +13,4 @@ This is a Telegram bot built for verifying Quotex users. The bot allows users to
 
 | Bot /start | Not Linked | Linked But Not Have Required Balance | All Are Verified  |
 |---------------|---------------|----------------|----------------|
-| ![Interface](screenshots/screen1.jpg) | ![Feedback](screenshots/screen2.jpg) | ![Queue Position](screenshots/screen3.jpg) | ![Admin Commands](screenshots/screen4.jpg) |
+| ![Interface](screenshots/screen1.jpg) | ![Feedback](screenshots/screen2.jpg) | ![Queue Position](screenshots/screen4.jpg) | ![Admin Commands](screenshots/screen3.jpg) |
